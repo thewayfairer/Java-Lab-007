@@ -4,8 +4,8 @@ Java lab 7 practicing loops
 
 ## PART 1: Practicing While Loops
 
-1. In the **WhileLoops** class, write a method named **eoCount** that contains a while loop that reads in integers from System.in, and counts the even and odd numbers.
-1. In the **WhileLoops** class, write a method named **mean** that contains a while loop reads in integers from System.in and calculates the mean of the numbers entered.
+1. In the **WhileLoops** class, write a method named **eoCount** that contains a while loop that reads in integers from System.in, and counts the even and odd numbers separately.
+1. In the **WhileLoops** class, write a method named **mean** that contains a while loop that reads in integers from System.in and calculates the mean of the numbers entered.
 
 ## PART 2: Practicing For Loops
 
@@ -26,6 +26,8 @@ Java lab 7 practicing loops
     The sum is: 33
     ```
 
+    * The sum in the above example is the result of: 3 + 4 + 5 + 6 + 7 + 8
+
 1. In the **ForLoops** class, implement a method named **factorial** that calculates the factorial of a number read in from System.in:
     * e.g. 9 Factorial means: 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1;
     * Example output will look like below:
@@ -42,7 +44,7 @@ Java lab 7 practicing loops
 
 ## PART 4: Turn In
 
-* Make sure to use the Git tab at the bottom of IntelliJ to create a Fall_2022 feature branch
+* Make sure to use the Git tab at the bottom of IntelliJ to create a Spring2023 feature branch
 * Commit and Push your running code back to your GitHub account
 * Issue a Pull request back to my Java-Lab-007 repo
 * Cut and Paste the Pull request URL into your Canvas assignment to turn it in.
